@@ -1,4 +1,4 @@
-# 💫 About Me:
+# about me:
 yo, my name's striving and i am a former exploit dev turned game dev<br>i make stuff<br>sometimes<br>
 
 
